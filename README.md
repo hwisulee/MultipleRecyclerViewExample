@@ -1,5 +1,5 @@
 # RecyclerViewPoolExample
->중첩 RecyclerView 예제
+>RecyclerView in RecyclerView Example (with Kotlin)
 
 <pre>
 <code>
@@ -12,7 +12,7 @@
 
 >Application PreView
 
-![image](https://user-images.githubusercontent.com/62528282/203861576-58c13742-ef58-42c4-9166-f7d34c74e62d.png)
+![image](https://user-images.githubusercontent.com/62528282/203862128-4b70a5f7-1538-4313-8623-547ed00641d8.png)
 
 >Knowledge Used
 1. DataBinding
