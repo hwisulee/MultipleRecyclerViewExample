@@ -1,4 +1,4 @@
-# RecyclerViewPoolExample
+# MultipleRecyclerViewExample
 >RecyclerView in RecyclerView Example (with Kotlin)
 
 <pre>
